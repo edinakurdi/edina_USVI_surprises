@@ -1,0 +1,46 @@
+body {
+  background-color: lightcyan;
+  margin: 4vw;
+  font-size: 1.1rem;
+  font-family: sans-serif;
+}
+h1 {
+  text-align: center;
+  font-size: 50px;
+  background-color: darkcyan;
+  color: white;
+  line-height: 2em;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+figure {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+img {
+  display:block;
+  max-width: 100%;
+  width: 50%;
+  margin: 0 auto;
+}
+
+figure.hero-container { 
+  width: 100%;
+}
+
+.hero-container img {
+  width: 100%;
+}
+
+
+figcaption {
+  font-size: 0.9em;
+  font-style: italic;
+  color: grey;
+  margin-top: 8px;
+}
